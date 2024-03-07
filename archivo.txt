@@ -1,1 +1,2 @@
-Creo en rama principal
+Creo archivo en MEZCLA
+Otro texto
